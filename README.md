@@ -17,6 +17,7 @@ the Technical skills, Education details,Contact details.
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+
 ## Demo
 
 https://www.loom.com/share/ac820324e04d49bdb4f0d2cc9cee5caa
