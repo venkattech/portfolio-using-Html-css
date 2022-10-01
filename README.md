@@ -15,7 +15,8 @@ the Technical skills, Education details,Contact details.
 - Render on single page while clicking on nav bar buttons.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2022-09-19 155728](https://user-images.githubusercontent.com/53010261/193411233-f852fc1a-44f1-4c7d-9dd6-02adf28e85dd.png)
+
 
 
 ## Demo
